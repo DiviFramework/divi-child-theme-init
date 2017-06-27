@@ -4,6 +4,7 @@ var sass         = require('gulp-sass');
 var autoprefixer = require('gulp-autoprefixer');
 var cssnano      = require('gulp-cssnano');
 var watch        = require('gulp-watch');
+var rename       = require('gulp-rename');
 var gCrashSound = require('gulp-crash-sound');
 
 gCrashSound.config({
