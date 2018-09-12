@@ -7,7 +7,6 @@
 *.swo
 *.swp
 *.vi
-*.zip
 *~
 
 # OS or Editor folders
@@ -33,7 +32,6 @@ node_modules
 
 # Dev Purpose
 *.html
-*.css
 *.map
 
 sftp-config.json
